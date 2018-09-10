@@ -1,6 +1,7 @@
 package com.wspn.jetty;
 
 public class start {
+	
 	public static void main(String[] args) throws Exception {
 		new Thread(new Runnable() {
 			public void run() {
